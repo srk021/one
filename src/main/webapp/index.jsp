@@ -9,7 +9,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">THIS IS NEW VERSION</h1>
 	<h1 style="color: yellow; font-size: 40px;" align="center">ButterFly ButterFly where are you going </h1>
 	<h1 style="color: green; font-size: 40px;" align="center">ButterFly ButterFly iam comming for you </h1>
-	<h1 style="color: gray; font-size: 40px;" align="center">ButterFly ButterFly i wanna tell you story </h1>
+	<h1 style="color: gray; font-size: 50px;" align="center">ButterFly ButterFly i wanna tell you story </h1>
 	
 	
 	
